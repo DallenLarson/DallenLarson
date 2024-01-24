@@ -1,16 +1,26 @@
-### Hi there 👋
+# Dallen Larson's GitHub Profile
 
-<!--
-**DallenLarson/DallenLarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a results-driven software engineer with more than six years of expertise and a solid track record in the field. I would describe myself as a quick learner with excellent attentive listening abilities, and a professional with a strong sense of purpose who is exceptional at turning concepts into fruitful endeavors. I can swiftly picks up new ideas and i'm flexible in a variety of work settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+- **Email:** [dallen@dallenlarson.com](mailto:dallen@dallenlarson.com)
+- **LinkedIn:** [linkedin.com/in/dallenlarson](https://linkedin.com/in/dallen-larson)
+
+## Skills
+
+```csharp
+- C#/.NET
+- React
+- JavaScript
+- CSS
+- SQL
+- HTML
+- Tailwind CSS
+- Bootstrap
+- Visual Studio Code
+- GitHub
+- Postman
+- Swagger
