@@ -1,12 +1,14 @@
 # Dallen Larson
 
-**Software engineer · AI engineering focus · Full-stack development · Apps & games**
+**Software Engineer | Full-Stack Development · C#/.NET · React · Unity**
 
-I build web products, desktop apps, and games. My background spans C#/.NET, React, Unity, and business-system integrations; my next chapter is focused on AI engineering and full-stack product development.
+I build web products, desktop apps, and games. My background spans C#/.NET, React, Unity, and business-system integrations; I'm targeting full-stack software engineering and applied AI engineering roles.
 
 [Portfolio](https://www.dallenlarson.com/) · [LinkedIn](https://www.linkedin.com/in/dallen-larson/) · [Email](mailto:dallen@dallenlarson.com)
 
-## Projects I'm proud of
+**Open to opportunities in full-stack development, application engineering, and applied AI.**
+
+## Featured projects
 
 ### DECKRISE
 A competitive card-game resource bringing together decks, metagame insights, matchups, and tournament results.
@@ -24,7 +26,7 @@ An augmented-reality paper-toss tech demo for Apple Vision Pro, built with **Uni
 [Explore the project](https://github.com/DallenLarson/Office-Toss)
 
 ### Bowie The Frog
-A released game with source code shared publicly. Its repository documents releases on Xbox, Google Play, itch.io, Newgrounds, and Game Jolt.
+A released Unity/C# game with public source covering player movement, animation, room spawning, scoring, and hazards. Releases include Xbox, Google Play, itch.io, Newgrounds, and Game Jolt.
 
 [Explore the source](https://github.com/DallenLarson/BowieTheFrog)
 
@@ -37,8 +39,10 @@ A released game with source code shared publicly. Its repository documents relea
 | Games & interactive experiences | Unity, C#, Photon, PolySpatial |
 | Business systems | Epicor Kinetic, custom workflows, API integrations, database work |
 
-## Current direction
+## For hiring teams
 
-I'm focusing on AI engineering and full-stack products, while continuing to build apps and games. I'm interested in turning practical ideas into useful software, connecting thoughtful interfaces with the systems behind them.
+My work spans browser-based products, native Windows applications, business integrations, and released games. For desktop engineering, start with **Nibble**; for web development, explore **DECKRISE**; for gameplay and spatial computing, see **Bowie The Frog** and **Office Toss**.
 
-Have a product, app, or game in mind? [Let's talk](mailto:dallen@dallenlarson.com).
+AI engineering is my current growth focus. My public projects above demonstrate the software engineering foundation I bring to that work.
+
+[Contact me about a role](mailto:dallen@dallenlarson.com) · [Experience & portfolio](https://www.dallenlarson.com/)
