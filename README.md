@@ -1,45 +1,44 @@
-# Dallen Larson's GitHub Profile
+# Dallen Larson
 
-## About Me
+**Software engineer · AI engineering focus · Full-stack development · Apps & games**
 
-I’m an Epicor ERP Developer and Software Engineer with over 6 years of experience specializing in ERP solutions, full-stack development, and game programming.  
-My passion lies in customizing Epicor systems, building scalable full-stack applications, and delivering tailored technical solutions that drive real business value.  
-I thrive on solving complex challenges, collaborating with cross-functional teams, and continuously refining my technical expertise.
+I build web products, desktop apps, and games. My background spans C#/.NET, React, Unity, and business-system integrations; my next chapter is focused on AI engineering and full-stack product development.
 
-I'm quick to adapt, highly detail-oriented, and driven by a strong sense of purpose: **to turn ideas into real-world solutions.**
+[Portfolio](https://www.dallenlarson.com/) · [LinkedIn](https://www.linkedin.com/in/dallen-larson/) · [Email](mailto:dallen@dallenlarson.com)
 
----
+## Projects I'm proud of
 
-## 🛠️ Core Skills
+### DECKRISE
+A competitive card-game resource bringing together decks, metagame insights, matchups, and tournament results.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Epicor ERP-Kinetic UI-blue?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epicor Kinetic UI"/>
-  <img src="https://img.shields.io/badge/Application Studio-ERP Customization-blueviolet?style=for-the-badge" alt="Application Studio"/>
-  <img src="https://img.shields.io/badge/BPMs & Functions-Workflow Automation-green?style=for-the-badge" alt="BPMs"/>
-  <img src="https://img.shields.io/badge/C%23-.NET Framework-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/SQL-Database Design-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/React.js-JavaScript-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-  <img src="https://img.shields.io/badge/REST API-Integration-00C7B7?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Unity-Game Dev-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Git-Version Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-API Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+[Visit DECKRISE](https://deckrise.net/) · [View source](https://github.com/DallenLarson/DECKRISE-site)
 
----
+### Nibble
+An open-source Windows browser built with **C#, .NET 8, WPF, and Microsoft Edge WebView2**. Nibble pairs a custom desktop interface with tabs, themes, a command palette, session restore, and an installer/update workflow, using the shared WebView2 runtime.
 
-## 📫 Contact Me
+[View source & screenshots](https://github.com/DallenLarson/nibble) · [Releases](https://github.com/DallenLarson/nibble/releases)
 
-- 📧 **Email:** [dallen@dallenlarson.com](mailto:dallen@dallenlarson.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/dallen-larson](https://linkedin.com/in/dallen-larson)
-- 🌐 **Website:** [dallenlarson.com](https://dallenlarson.com)
+### Office Toss
+An augmented-reality paper-toss tech demo for Apple Vision Pro, built with **Unity, C#, and PolySpatial**. A focused experiment in bringing an arcade interaction into spatial computing.
 
----
+[Explore the project](https://github.com/DallenLarson/Office-Toss)
 
-## 🔥 Areas of Focus
-- Epicor Kinetic UI customization
-- Application Studio development
-- BPMs, Functions, and advanced workflow automation
-- Epicor REST API integrations with third-party systems
-- SQL optimization and database design
-- Full-stack web development (React, .NET)
-- Unity C# game development for commercial releases
+### Bowie The Frog
+A released game with source code shared publicly. Its repository documents releases on Xbox, Google Play, itch.io, Newgrounds, and Game Jolt.
+
+[Explore the source](https://github.com/DallenLarson/BowieTheFrog)
+
+## What I work with
+
+| Area | Technologies & experience |
+| --- | --- |
+| Web & full-stack | React, JavaScript, HTML/CSS, C#/.NET, REST APIs, SQL |
+| Desktop apps | WPF, .NET 8, WebView2, Windows integration |
+| Games & interactive experiences | Unity, C#, Photon, PolySpatial |
+| Business systems | Epicor Kinetic, custom workflows, API integrations, database work |
+
+## Current direction
+
+I'm focusing on AI engineering and full-stack products, while continuing to build apps and games. I'm interested in turning practical ideas into useful software, connecting thoughtful interfaces with the systems behind them.
+
+Have a product, app, or game in mind? [Let's talk](mailto:dallen@dallenlarson.com).
