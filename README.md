@@ -1,48 +1,54 @@
 # Dallen Larson
 
-**Software Engineer | Full-Stack Development · C#/.NET · React · Unity**
+**Software Engineer | C#/.NET, React & Applied AI**
 
-I build web products, desktop apps, and games. My background spans C#/.NET, React, Unity, and business-system integrations; I'm targeting full-stack software engineering and applied AI engineering roles.
+I build and ship web products, Windows applications, and games. My background includes enterprise integrations, production troubleshooting, and independent product development. Based in **Birmingham, Alabama** and open to software engineering, full-stack, and Applied AI opportunities.
 
-[Portfolio](https://www.dallenlarson.com/) · [LinkedIn](https://www.linkedin.com/in/dallen-larson/) · [Email](mailto:dallen@dallenlarson.com)
+[Portfolio](https://dallenlarson.com/) · [Résumé](https://dallenlarson.com/assets/Dallen-Larson-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/dallen-larson/) · [Email](mailto:dallen@dallenlarson.com)
 
-**Open to opportunities in full-stack development, application engineering, and applied AI.**
+## Start with the work
 
-## Featured projects
+### Nibble — C#/.NET desktop engineering
 
-### DECKRISE
-A competitive card-game resource bringing together decks, metagame insights, matchups, and tournament results.
+A released Windows browser built with **C#, .NET 8, WPF, and WebView2**. Tab management, session restore, themes, Windows integration, and an installer/update workflow. The repository documents verification workflows and unsigned-release constraints.
 
-[Visit DECKRISE](https://deckrise.net/) · [View source](https://github.com/DallenLarson/DECKRISE-site)
+[Engineering case study](https://dallenlarson.com/work/nibble/) · [Source](https://github.com/DallenLarson/nibble) · [Releases](https://github.com/DallenLarson/nibble/releases/latest)
 
-### Nibble
-An open-source Windows browser built with **C#, .NET 8, WPF, and Microsoft Edge WebView2**. Nibble pairs a custom desktop interface with tabs, themes, a command palette, session restore, and an installer/update workflow, using the shared WebView2 runtime.
+### CSKit — Web applications and private account data
 
-[View source & screenshots](https://github.com/DallenLarson/nibble) · [Releases](https://github.com/DallenLarson/nibble/releases)
+A Counter-Strike 2 workspace with configuration exports, market data, and private account storage. **JavaScript, Firebase, Node.js, and REST APIs**, with explicit guest-to-account migration, config-export guardrails, and automated checks/deployment.
 
-### Office Toss
-An augmented-reality paper-toss tech demo for Apple Vision Pro, built with **Unity, C#, and PolySpatial**. A focused experiment in bringing an arcade interaction into spatial computing.
+[Engineering case study](https://dallenlarson.com/work/cskit/) · [Live product](https://cskit.site) · [Source](https://github.com/DallenLarson/cs2-atelier)
 
-[Explore the project](https://github.com/DallenLarson/Office-Toss)
+### DECKRISE — Independent product development
 
-### Bowie The Frog
-A released Unity/C# game with public source covering player movement, animation, room spawning, scoring, and hazards. Releases include Xbox, Google Play, itch.io, Newgrounds, and Game Jolt.
+A live card-game resource bringing together decks, matchup information, tournament results, and metagame trends. I own the product from feature definition through deployment and iteration. The public repository is a documented source snapshot and may differ from production.
 
-[Explore the source](https://github.com/DallenLarson/BowieTheFrog)
+[Engineering case study](https://dallenlarson.com/work/deckrise/) · [Live product](https://deckrise.net) · [Public source snapshot](https://github.com/DallenLarson/DECKRISE-site)
 
-## What I work with
+### Emblem Forge — Unity/C# systems
 
-| Area | Technologies & experience |
+An open-source tactical strategy framework with grid, unit, turn-management, and combat responsibilities. Available under the MIT license; the release is labeled pre-release.
+
+[Engineering case study](https://dallenlarson.com/work/emblem/) · [Source](https://github.com/DallenLarson/EmblemForge)
+
+## Professional foundation
+
+- **Six S Partners:** Epicor Kinetic development using C#, BPMs, Functions, BAQs, dashboards, and REST integrations; production troubleshooting and implementation support.
+- **Rook Studios:** Unity/C# gameplay implementation and collaboration across a creative team.
+- **Independent work:** Product definition, development, testing, deployment, and maintenance across applications and games.
+
+[Experience](https://dallenlarson.com/#experience) · [Game releases & public credits](https://dallenlarson.com/work/games/)
+
+## Tools and focus
+
+| Area | Experience |
 | --- | --- |
-| Web & full-stack | React, JavaScript, HTML/CSS, C#/.NET, REST APIs, SQL |
-| Desktop apps | WPF, .NET 8, WebView2, Windows integration |
-| Games & interactive experiences | Unity, C#, Photon, PolySpatial |
-| Business systems | Epicor Kinetic, custom workflows, API integrations, database work |
+| Web & applications | React, JavaScript, HTML/CSS, C#/.NET, SQL, REST APIs |
+| Windows | WPF, WebView2, installation and update workflows |
+| Business systems | Epicor Kinetic, Application Studio, BPMs, Functions, BAQs |
+| Games | Unity, C#, Photon, PolySpatial |
 
-## For hiring teams
+**Applied AI is my next chapter.** I use ChatGPT and Claude in development and am deepening the engineering behind AI-powered products. The projects above demonstrate my software foundation; AI-assisted development is distinct from a deployed AI feature.
 
-My work spans browser-based products, native Windows applications, business integrations, and released games. For desktop engineering, start with **Nibble**; for web development, explore **DECKRISE**; for gameplay and spatial computing, see **Bowie The Frog** and **Office Toss**.
-
-AI engineering is my current growth focus. My public projects above demonstrate the software engineering foundation I bring to that work.
-
-[Contact me about a role](mailto:dallen@dallenlarson.com) · [Experience & portfolio](https://www.dallenlarson.com/)
+[Writing on Medium](https://medium.com/@dallenlarson) · [Contact me about a role](mailto:dallen@dallenlarson.com)
